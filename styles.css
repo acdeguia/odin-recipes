@@ -2,7 +2,9 @@
     font-family: 'Helvetica';
 }
 
-
+p {
+    text-align: justify;
+}
 /*Home Page*/
 
 .title {
@@ -20,9 +22,10 @@
 }
 
 .ul-hp {
-    text-align: center;
     font-size: 30px;
- 
+    width: fit-content;
+    text-align: center;
+    margin: auto;
 }
 
 a {
@@ -36,15 +39,12 @@ a {
 .block {
     align-items: center;
     float: left;
+    border: solid 1px black;
+    margin: 1em;
 }
 .image-hp {
     width: 10em;
     height: auto;
-}
-
-.center {
-    margin: auto;
-    width: 80%;
 }
 
 /*Pasta*/
