@@ -1,0 +1,50 @@
+* {
+    font-family: 'Helvetica';
+}
+
+
+/*Home Page*/
+
+.title {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.list {
+    display: inline-block;
+    
+}
+
+ul {
+    text-align: center;
+    font-size: 30px;
+ 
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    padding: 1em;
+   
+}
+
+ul div {
+    display: inline;
+}
+
+.block {
+    align-items: center;
+    float: left;
+}
+.image-hp {
+    width: 10em;
+    height: auto;
+}
+
+.center {
+    margin: auto;
+    width: 80%;
+}
+
+/*Potato*/
+
